@@ -28,7 +28,7 @@ Build and optimized version suitable for the web with **npm run build**
 npm run build
 ```
 
-## Tech Stack
+## Tech
 
 - ReactJs with Hooks
 - React Context API
