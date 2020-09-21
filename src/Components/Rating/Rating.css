@@ -1,0 +1,7 @@
+.rating {
+  display: flex;
+}
+
+.rating__stars {
+  color: #f0c14b;
+}
