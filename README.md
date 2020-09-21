@@ -12,19 +12,19 @@
 
 Install all dependencies using **npm install**.
 
-```
+```bash
 npm install
 ```
 
 Start local development server for react with **npm start**
 
-```
+```bash
 npm start
 ```
 
 Build and optimized version suitable for the web with **npm run build**
 
-```
+```bash
 npm run build
 ```
 
